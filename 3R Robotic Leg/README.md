@@ -68,9 +68,9 @@ The structure operates in the **XZ plane** — ideal for vertical locomotion and
 
 ---
 
-### 🔗 Download Fusion 360 Model
+### 🎥 Interactive 3D View (Fusion 360)
 
-> 📁 [Download:](3R Planner Leg.f3d)
+[🔗 Click here to view the model in 3D](https://a360.co/3IevnWv)
 
 ---
 
