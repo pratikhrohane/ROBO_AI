@@ -23,8 +23,8 @@ You are expected to:
 While researching **3R planar leg mechanisms**, I came across the design of **Redundant Articulated Legs** used in advanced quadrupeds. A key inspiration was the **HADE (Hybrid Actuator Development) Leg**, which replicates the motion of a horse leg.
 
 <p align="center">
-  <img src="images/Redundant_Articulated_Legs.jpeg" width="400"/>
-  <img src="images/HADE.jpeg" width="400"/>
+  <img src="Redundant Articulated Legs.jpg" width="400"/>
+  <img src="HEDA.jpg" width="400"/>
 </p>
 
 The HADE-inspired structure includes:
@@ -59,9 +59,9 @@ The structure operates in the **XZ plane** — ideal for vertical locomotion and
 ### 📷 CAD Design Output
 
 <p align="center">
-  <img src="images/3R_Planner_Leg.png" width="300"/>
-  <img src="images/3R_Planner_Leg_Front_View.png" width="300"/>
-  <img src="images/3R_Planner_Leg_Back_View.png" width="300"/>
+  <img src="3R Planner Leg.png" width="300"/>
+  <img src="3R Planner Leg Front View.png" width="300"/>
+  <img src="3R Planner Leg Back View.png" width="300"/>
 </p>
 
 > *Figure: Isometric, Front, and Back Views of 3R Planar Leg*
@@ -70,7 +70,7 @@ The structure operates in the **XZ plane** — ideal for vertical locomotion and
 
 ### 🔗 Download Fusion 360 Model
 
-> 📁 [Download: 3R\_Planner\_Leg.f3d](models/3R_Planner_Leg.f3d)
+> 📁 [Download:](3R Planner Leg.f3d)
 
 ---
 
@@ -80,11 +80,11 @@ We designed a HADE-inspired transmission system to drive the 3R leg in real-worl
 
 ---
 
-### 🦿 HADE Leg Architecture
+### 🦿 HADE Leg
 
 <p align="center">
-  <img src="images/HADE_Ele.jpeg" width="400"/>
-  <img src="images/3R_Planner_Leg.gif" width="400"/>
+  <img src="HADA Ele.jpg" width="400"/>
+  <img src="3R Planner Leg.gif" width="400"/>
 </p>
 
 > *Left: HADE Prototype Actuation; Right: Our Fusion 3R Leg Animation*
