@@ -127,7 +127,7 @@ We designed a HADE-inspired transmission system to drive the 3R leg in real-worl
 
 ---
 
-## 📐 Kinematics of a 3R Planar Robotic Leg (Fusion 360 Model)
+## 📐 Kinematics of a 3R Planar Robotic Leg 
 
 ## 1. Forward Kinematics
 
