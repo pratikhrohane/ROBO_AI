@@ -24,7 +24,7 @@ While researching **3R planar leg mechanisms**, I came across the design of **Re
 
 <p align="center">
   <img src="Redundant Articulated Legs.jpg" width="400"/>
-  <img src="HEDA.jpg" width="400"/>
+  <img src="HADE.jpg" width="400"/>
 </p>
 
 The HADE-inspired structure includes:
@@ -59,9 +59,9 @@ The structure operates in the **XZ plane** — ideal for vertical locomotion and
 ### 📷 CAD Design Output
 
 <p align="center">
-  <img src="3R Planner Leg.png" width="300"/>
-  <img src="3R Planner Leg Front View.png" width="300"/>
-  <img src="3R Planner Leg Back View.png" width="300"/>
+  <img src="3R Planner Leg.png" width="500"/>
+  <img src="3R Planner Leg Front View.png" width="500"/>
+  <img src="3R Planner Leg Back View.png" width="500"/>
 </p>
 
 > *Figure: Isometric, Front, and Back Views of 3R Planar Leg*
@@ -83,8 +83,8 @@ We designed a HADE-inspired transmission system to drive the 3R leg in real-worl
 ### 🦿 HADE Leg
 
 <p align="center">
-  <img src="HADA Ele.jpg" width="400"/>
-  <img src="3R Planner Leg.gif" width="400"/>
+  <img src="HADE Ele.jpg" width="500"/>
+  <img src="3R Planner Leg.gif" width="500"/>
 </p>
 
 > *Left: HADE Prototype Actuation; Right: Our Fusion 3R Leg Animation*
