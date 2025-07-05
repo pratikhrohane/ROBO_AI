@@ -70,7 +70,7 @@ The structure operates in the **XZ plane** — ideal for vertical locomotion and
 
 ### 🎥 Interactive 3D View (Fusion 360)
 
-[🔗 Click here to view the model in 3D](https://a360.co/3IevnWv)
+🔗 [Click here to view the model in 3D](https://a360.co/3IevnWv)
 
 ---
 
