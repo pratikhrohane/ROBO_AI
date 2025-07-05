@@ -23,8 +23,9 @@ You are expected to:
 While researching **3R planar leg mechanisms**, I came across the design of **Redundant Articulated Legs** used in advanced quadrupeds. A key inspiration was the **HADE (Hybrid Actuator Development) Leg**, which replicates the motion of a horse leg.
 
 <p align="center">
-  <img src="Redundant Articulated Legs.jpg" width="400"/>
-  <img src="HADE.jpg" width="400"/>
+  <img src="Agile-Robot Leg.png" width="350"/>
+  <img src="Redundant Articulated Legs.jpg" width="300"/>
+  <img src="HADE.jpg" width="350"/>
 </p>
 
 The HADE-inspired structure includes:
