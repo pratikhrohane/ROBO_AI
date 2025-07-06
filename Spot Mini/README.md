@@ -33,7 +33,7 @@ SpotMiniBot/
 │   ├── Case Body.f3d
 │   ├── Face Case.f3d
 │   └── ...
-├── Part Images/              # Visuals for each part
+├── Parts Images/              # Visuals for each part
 │   ├── Left Upper Leg.png
 │   ├── Right Upper Leg.png
 │   ├── Lower Leg.png
@@ -62,11 +62,11 @@ The robot is built modularly with individual `.f3d` files for each part:
 
 | Part            | Image Preview                                                                |
 | --------------- | ---------------------------------------------------------------------------- |
-| Upper Legs      | !\[]\(Part Images/Left Upper Leg.png) !\[]\(Part Images/Right Upper Leg.png) |
-| Lower Legs      | !\[]\(Part Images/Lower Leg.png)                                             |
-| Motor Housing   | !\[]\(Part Images/Motor.png)                                                 |
-| Structural Case | !\[]\(Part Images/Case Body.png)                                             |
-| Face Case       | !\[]\(Part Images/Face Case.png)                                             |
+| Upper Legs      | !\[]\(Parts Images/Left Upper Leg.png) !\[]\(Parts Images/Right Upper Leg.png) |
+| Lower Legs      | !\[]\(Parts Images/Lower Leg.png)                                             |
+| Motor Housing   | !\[]\(Parts Images/Motor.png)                                                 |
+| Structural Case | !\[]\(Parts Images/Case Body.png)                                             |
+| Face Case       | !\[]\(Parts Images/Face Case.png)                                             |
 
 Each part is designed to be 3D-printable or CNC-machinable.
 
@@ -86,13 +86,13 @@ This is the **entire assembled robot** as a parametric Fusion 360 project.
 
 ### 📦 Assembly Process
 
-!\[Spot Assembly]\(Animations/Spot Assembly.gif)
+!\[Spot Assembly]\(/Animations/Spot Assembly.avi)
 
 > *Watch the components come together into a complete robot!*
 
 ### 🚶‍♂️ Walking Motion
 
-!\[Spot Walking]\(Animations/Spot Walking.gif)
+!\[Spot Walking]\(/Animations/Spot Walking.gif)
 
 > *Simulated walking using motion joints in Fusion 360.*
 
@@ -100,14 +100,15 @@ This is the **entire assembled robot** as a parametric Fusion 360 project.
 
 ## 🖼️ Renders (Environment Showcases)
 
-> *Rendered using Fusion 360 Render Workspace to simulate real-world conditions.*
 
 <p align="center">
   <img src="Renders/Spot Back View.png" width="300"/>
   <img src="Renders/Spot Industry.png" width="300"/>
-  <img src="Renders/Spot IPL.png" width="300"/>
+  <img src="Renders/Spot ipl.png" width="300"/>
   <img src="Renders/Spot Stadium.png" width="300"/>
 </p>
+
+> *Rendered using Fusion 360 Render Workspace to simulate real-world conditions.*
 
 ---
 
@@ -127,7 +128,7 @@ Snapshots from various stages of modeling:
 
 ## 🌐 Online 3D Model Viewer (Fusion 360 Web Viewer)
 
-> 🔗 [View Spot V1 in 3D (opens in new tab)](https://a360.co/YOUR-MODEL-LINK-HERE)
+🔗 [View Spot V1 in 3D (opens in new tab)](https://a360.co/4lW65uX)
 
 > *Click the link above to rotate, zoom, and interact with the model online.*
 
