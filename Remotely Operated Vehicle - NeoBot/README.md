@@ -104,6 +104,18 @@ NeoBot can:
 ```
 
 ---
+## 🌐 MQTT WebSocket & HiveMQ 
+During development, **HiveMQ** was used as a public MQTT broker to quickly test and verify sensor data transmission over **WebSockets**.  
+This allowed rapid debugging without setting up a local broker.
+
+**Steps:**
+1. Connect ESP32 to HiveMQ public broker.
+2. Subscribe to topics in HiveMQ WebSocket dashboard.
+3. Verify incoming sensor data in real-time.
+
+📸 **HiveMQ Dashboard**
+![HiveMQ Dashboard](images/hivemq_dashboard.png)
+---
 
 ## 🎥 Demo Video
 
