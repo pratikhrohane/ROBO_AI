@@ -95,15 +95,6 @@ NeoBot can:
 
 ---
 
-## 🛠 Robot Development
-
-📸 **Hardware Build**
-
-```
-[Images of robot in 2-row × 3-column layout]
-```
-
----
 ## 🌐 MQTT WebSocket & HiveMQ 
 During development, **HiveMQ** was used as a public MQTT broker to quickly test and verify sensor data transmission over **WebSockets**.  
 This allowed rapid debugging without setting up a local broker.
@@ -112,14 +103,51 @@ This allowed rapid debugging without setting up a local broker.
 1. Connect ESP32 to HiveMQ public broker.
 2. Subscribe to topics in HiveMQ WebSocket dashboard.
 3. Verify incoming sensor data in real-time.
-
-📸 **HiveMQ Dashboard**
-![HiveMQ Dashboard](images/hivemq_dashboard.png)
 ---
 
-## 🎥 Demo Video
 
-📹 **Watch Here:** [Demo Link](https://example.com)
+
+## 🛠️ Development Pics  
+
+### 🤖 Robot  
+<div style="display: flex; gap: 10px;">
+  <img src="bot1.jpeg" width="45%"/>
+  <img src="bot2.jpeg" width="45%"/>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img src="bot3.jpeg" width="30%"/>
+  <img src="bot4.jpeg" width="30%"/>
+  <img src="bot5.jpeg" width="30%"/>
+</div>
+
+---
+
+### 🖥️ Display  
+<div style="display: flex; gap: 10px;">
+  <img src="display1.jpeg" width="45%"/>
+  <img src="display2.jpeg" width="45%"/>
+</div>
+
+---
+
+### ☁️ HiveMQ  
+<div style="display: flex; gap: 10px;">
+  <img src="hivemq1.jpeg" width="45%"/>
+  <img src="hivemq2.jpeg" width="45%"/>
+</div>
+
+--- 
+
+### 📱 App UI  
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="app_ui.png" width="60%"/>
+</div>
+---
+
+## 🎥 Demo Video  
+
+📹 **Watch Here:** [Demo Link](https://drive.google.com/file/d/1Zz8J7WA2xYghbRoaFVZ9F8N08tbSeV0w/view?usp=drive_link)
 
 ---
 
