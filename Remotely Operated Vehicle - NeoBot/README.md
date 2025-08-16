@@ -145,6 +145,13 @@ This allowed rapid debugging without setting up a local broker.
 </div>
 ---
 
+### 🔌 Electronics  
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="NeoBot_Electronics.png" width="60%"/>
+</div>
+
+---
+
 ## 🎥 Demo Video  
 
 📹 **Watch Here:** [Demo Link](https://drive.google.com/file/d/1Zz8J7WA2xYghbRoaFVZ9F8N08tbSeV0w/view?usp=drive_link)
